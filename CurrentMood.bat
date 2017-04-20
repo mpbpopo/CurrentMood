@@ -1,0 +1,1 @@
+os.system("start /wait cmd /k C:\Users\mpopovici\OneDrive\Learning\Tech Learning\Python\CurrentMood.py")
